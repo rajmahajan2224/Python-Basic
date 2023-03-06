@@ -1,0 +1,15 @@
+Difference between List & Tuple -
+
+List:-
+(i) List are Mutable.
+(ii) List iterations time is more.
+(iii) Unexpected chnages and error more likely to occur.
+(iv) Consume more memory.
+(v) Have many bulit-In Types.
+
+Tuple:-
+(i) Tuple are Immutable.
+(ii) Tuple iterations time is less.
+(iii) Unexpected changes and error are hard to occur.
+(iv) Consume less memory in comparison to list.
+(v) Have Few Built-In Types.
